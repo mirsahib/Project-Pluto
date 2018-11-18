@@ -64,7 +64,7 @@ Extract two smallest frequency character and add there frequency and character v
 
 Iteration:1
 
-| Character: a frequency: 2 | Character: ed frequency:2 | Character: b frequency: 3 | Character: c frequency:4 |
+| Character: a<br> frequency: 2 | Character: ed<br> frequency:2 | Character: b frequency: 3 | Character: c frequency:4 |
 | --- | --- | --- | --- |
 
 Iteration:2
