@@ -43,7 +43,7 @@ we have to insert this node array into a priority queue
 
 This is how the node will be arranged after inserting them into a priority queue
 
-| Character: efrequency: 1 | Character: dfrequency:1 | Character: afrequency: 2 | Character: bfrequency:3 | Character: cfrequency:4 |
+| Character: e frequency: 1 | Character: d frequency:1 | Character: a frequency: 2 | Character: b frequency:3 | Character: c frequency:4 |
 | --- | --- | --- | --- | --- |
 
 
