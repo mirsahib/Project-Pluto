@@ -34,7 +34,7 @@ e = 1
 
 Node array:
 
-| Character: afrequency: 2 | Character: bfrequency:3 | Character: cfrequency: 4 | Character: dfrequency:1 | Character: efrequency:1 |
+| Character: a frequency: 2 | Character: b frequency:3 | Character: c frequency: 4 | Character: d frequency:1 | Character: e frequency:1 |
 | --- | --- | --- | --- | --- |
 
 **Step 3: setting up the priority queue**
